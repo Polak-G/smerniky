@@ -1,0 +1,3 @@
+C:/Users/Gregor/CLionProjects/smerniky/cmake-build-debug/CMakeFiles/smerniky.dir
+C:/Users/Gregor/CLionProjects/smerniky/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gregor/CLionProjects/smerniky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
